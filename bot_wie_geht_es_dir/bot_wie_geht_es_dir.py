@@ -82,4 +82,4 @@ while raten == False:
     neues_spiel = neues_spiel.lower()
     print(neues_spiel)
     if neues_spiel == "ja":
-      print("Bye")ei
+      print("Bye")
